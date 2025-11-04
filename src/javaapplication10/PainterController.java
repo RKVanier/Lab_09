@@ -1,3 +1,5 @@
+package javaapplication10;
+
 /**
  * Sample Skeleton for 'FXML.fxml' Controller Class
  */
